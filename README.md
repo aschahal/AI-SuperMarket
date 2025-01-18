@@ -1,22 +1,14 @@
 
-# CS571-S24 HW10: BadgerMart (Chat!)
-
-Welcome back to our final installment of BadgerMart! For this assignment, you will re-implement BadgerMart as *a chat application*. By completing this class, you will have developed a web, mobile, and chat interface for BadgerMart! 🥳🎉 
+# BadgerMart (Chat!)
 
 ## Setup
-
-You will complete a [Wit.AI Agent](https://wit.ai/) and some JS handler code as a part of this assignment.
-
-The starter code provided to you was generated using [vite](https://vitejs.dev/guide/). Furthermore, [bootstrap](https://www.npmjs.com/package/bootstrap) and [react-bootstrap](https://www.npmjs.com/package/react-bootstrap) have already been installed. **You should *not* re-run the  npm create vite command**. Instead, in this directory, simply run...
 
 ```bash
 npm install
 npm run dev
 ```
 
-Then, in a browser, open `localhost:5173`. You should *not* open index.html in a browser; React works differently than traditional web programming! When you save your changes, they appear in the browser automatically. I recommend using [Visual Studio Code](https://code.visualstudio.com/) to do your development work.
-
-For this assignment, **you will only work on `ChatAgent.js`**. You should **not** change the React JSX components; these have been completed for you! Your focus is to solely write the code in `ChatAgent.js` that interfaces between your [Wit.AI Agent](https://wit.ai/) and the provided React frontend.
+Then, in a browser, open `localhost:5173`. You should *not* open index.html in a browser; 
 
 ## API Notes
 
