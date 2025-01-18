@@ -21,14 +21,6 @@ All routes are relative to `https://cs571.org/api/s24/hw10/`
 
 See `API_DOCUMENTATION.md` for more details.
 
-## Special Requirements
- - *Only* modify your Wit.AI agent and `ChatAgent.js`. Do *not* modify any of the existing `.jsx` components.
- - While you may hardcode item names as an entity of your Wit.AI agent, you may *not* hardcode item names within `ChatAgent.js`.
- - *Each* intent within your Wit.AI agent should be trained on **5+ utterances** 
-   - However, you do not need multiple responses for your intents; one response will do.
- - When `fetch`'ing data within `ChatAgent.js`, use the `async`/`await` syntax! Do not use `.then`.
- - When submitting your project, **please be sure to include a .ZIP of your Wit.AI agent!** Further instructions can be found underneath "Submission Details".
-
 ## BadgerMart
 
 ### 1. Welcome
